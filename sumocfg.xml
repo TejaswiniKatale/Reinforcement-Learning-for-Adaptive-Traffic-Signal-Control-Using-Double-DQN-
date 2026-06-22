@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+    <input>
+        <net-file value="intersection.net.xml"/>
+        <route-files value="routes.xml"/>
+    </input>
+    <time>
+        <begin value="0"/>
+        <end value="3600"/>
+        <step-length value="1.0"/>
+    </time>
+    <gui_only>
+        <gui-settings-file value="gui_settings.xml"/>
+    </gui_only>
+</configuration>
